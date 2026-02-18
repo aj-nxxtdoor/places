@@ -210,7 +210,7 @@ header h1 {
   }
   to {
     opacity: 1;
-    transform: translateY(0);
+    transform: TranslateY(0);
   }
 }
 
